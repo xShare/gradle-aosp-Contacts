@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Organisasjon"</item>
     <item msgid="7196592230748086755">"Notat"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Ingen bilder er tilgjengelige på nettbrettet."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Det er ingen bilder på telefonen."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Kontaktbilde"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Egendefinert etikett"</string>

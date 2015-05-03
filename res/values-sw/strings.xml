@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Shirika"</item>
     <item msgid="7196592230748086755">"Hati"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Hakuna picha inayopatikana kwenye kompyuta ndogo."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Hakuna picha zinazopatikana kwenye simu."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Picha ya anwani"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Jina maalum la lebo"</string>

@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"조직"</item>
     <item msgid="7196592230748086755">"메모"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"태블릿에 사진이 없습니다."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"휴대전화에 사진이 없습니다."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"연락처 사진"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"라벨 이름 맞춤 설정"</string>

@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"සංවිධානය"</item>
     <item msgid="7196592230748086755">"සටහන"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"ටැබ්ලටයේ පින්තූර කිසිවක් ලද නොහැක."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"දුරකථනයේ පින්තූර කිසිවක් ලද නොහැක."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"සම්බන්ධතා ඡායාරූපය"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"අභිරුචි ලේබල නම"</string>

@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Tổ chức"</item>
     <item msgid="7196592230748086755">"Ghi chú"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Không có ảnh nào trong máy tính bảng."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Không có ảnh nào trong điện thoại."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Ảnh của liên hệ"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Tên nhãn tùy chỉnh"</string>

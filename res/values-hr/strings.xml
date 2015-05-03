@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Organizacija"</item>
     <item msgid="7196592230748086755">"Napomena"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Na tabletnom uređaju nema dostupnih slika."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Nema dostupnih slika na telefonu."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Kontakt fotografija"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Prilagođeni naziv oznake"</string>

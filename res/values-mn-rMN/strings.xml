@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Байгууллага"</item>
     <item msgid="7196592230748086755">"Тэмдэглэл"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Таблетэнд зураг байхгүй байна."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Утсанд зураг байхгүй байна."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Харилцагчийн зураг"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Захиалгат шошгын нэр"</string>

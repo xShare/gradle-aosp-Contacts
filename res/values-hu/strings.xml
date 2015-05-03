@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Szervezet"</item>
     <item msgid="7196592230748086755">"Jegyzet"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Nem állnak rendelkezésre képek a táblagépen."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Nincsenek elérhető képek a telefonon."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Ismerős fotója"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Egyéni címkenév"</string>

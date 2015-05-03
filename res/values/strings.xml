@@ -213,7 +213,6 @@
     </string-array>
 
     <!-- Description in the dialog that appears if there are no pictures from which to create an icon for a contact -->
-    <string name="photoPickerNotFoundText" product="tablet">No pictures are available on the tablet.</string>
     <!-- Description in the dialog that appears if there are no pictures from which to create an icon for a contact -->
     <string name="photoPickerNotFoundText" product="default">No pictures are available on the phone.</string>
 

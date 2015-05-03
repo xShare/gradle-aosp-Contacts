@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"ארגון"</item>
     <item msgid="7196592230748086755">"הערה"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"אין תמונות זמינות בטאבלט."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"אין תמונות זמינות בטלפון."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"תמונה של איש קשר"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"שם תווית בהתאמה אישית"</string>

@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"ഓര്‍ഗനൈസേഷന്‍"</item>
     <item msgid="7196592230748086755">"കുറിപ്പ്"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"ടാബ്‌ലെറ്റിൽ ചിത്രങ്ങളൊന്നും ലഭ്യമല്ല."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"ഫോണിൽ ചിത്രങ്ങളൊന്നും ലഭ്യമല്ല."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"കോൺടാക്‌‌റ്റിന്റെ ഫോട്ടോ"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"ഇഷ്‌ടാനുസൃത ലേബൽ പേര്"</string>

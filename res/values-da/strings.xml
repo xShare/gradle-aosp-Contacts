@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Organisation"</item>
     <item msgid="7196592230748086755">"Note"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Der er ingen tilgængelige billeder på tabletcomputeren."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Der er ingen tilgængelige billeder på telefonen."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Billede af kontaktperson"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Navn på tilpasset etiket"</string>

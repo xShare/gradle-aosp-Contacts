@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"संगठन"</item>
     <item msgid="7196592230748086755">"नोट"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"टेबलेट पर कोई चित्र उपलब्ध नहीं है."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"फ़ोन पर कोई चित्र उपलब्ध नहीं है."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"संपर्क का फ़ोटो"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"कस्टम लेबल नाम"</string>

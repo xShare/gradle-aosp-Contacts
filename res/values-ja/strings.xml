@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"所属"</item>
     <item msgid="7196592230748086755">"メモ"</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"タブレット内に写真がありません。"</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"画像がありません。"</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"連絡先の写真"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"新しいラベル名"</string>

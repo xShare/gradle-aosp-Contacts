@@ -78,7 +78,6 @@
     <item msgid="8287841928119937597">"Організація"</item>
     <item msgid="7196592230748086755">"Прим."</item>
   </string-array>
-    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"У пристрої немає доступних зображень."</string>
     <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"У телефоні немає доступних зображень."</string>
     <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Фото контакта"</string>
     <string name="customLabelPickerTitle" msgid="1081475101983255212">"Назва"</string>

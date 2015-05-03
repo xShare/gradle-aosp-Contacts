@@ -15,13 +15,15 @@ buildscript {
 dependencies {
     //compile 'com.android.support:support-v4:22.0'
     //compile 'com.android.support:support-v13:22.1.1'
-    //compile files('../ContactsCommon/libs/guava-18.0.jar')
+    compile files('../ContactsCommon/libs/guava-18.0.jar')
     //compile project(':PhoneCommon')
     //compile files('libs/libphonenumber-6.2.jar')
     //compile files('libs/geocoder-2.9.jar')
     //compile project(':vcard')
     compile project(':ContactsCommon')
-    compile files('libs/jsr305.jar')
+    //compile files('libs/jsr305.jar')
+    //compile 'com.android.support:cardview-v7:21.0.0-rc1'
+    compile 'com.android.support:cardview-v7:22.1.1'
 }
 
 android {
